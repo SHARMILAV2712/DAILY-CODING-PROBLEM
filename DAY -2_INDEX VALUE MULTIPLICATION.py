@@ -29,11 +29,11 @@ a=list(map(int,input().split(',')))
 uber(a)
 
 #ALGORITHM
-By seeeing the question, we could think that it may take many lines to complete the code.
+'''By seeeing the question, we could think that it may take many lines to complete the code.
 but, once we found the algorithm, it is so simple to write the code.
 The algorithm goes here...
 To get the product of all the numbers except the number at the particular index,
 >>first multiply all the numbers in the index and store it in a variable.
 >>then using loop method, divide the stored number by the number at the specified index during every iteration
->>return the results as a list.
+>>return the results as a list.'''
         
