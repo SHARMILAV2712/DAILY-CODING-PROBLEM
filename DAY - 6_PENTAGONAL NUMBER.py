@@ -3,8 +3,8 @@ Write a function PentagonalNumber(num) read num which will be a positive integer
 pentagonal shape around a center dot on the Nth iteration. For example, in the image below you can see
 that on the first iteration there is only a single dot, on the second iteration there are 6 dots, on the third there are 16 dots, and on the fourth there are 31 dots.
            o
- o      o o o
-          o o
+ o      o  o  o
+         o   o
 Your program should return the number of dots that exist in the whole pentagon on the Nth iteration.
 
 Sample Test Cases
